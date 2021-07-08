@@ -9,7 +9,7 @@ Only **MySQL** is used in the whole project.
 Requirements:
 
 1. MySQL
-2. MySQL Workbench if you don't like to write query in cmd/ terminal
+
 
 
 
